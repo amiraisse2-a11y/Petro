@@ -1,0 +1,13 @@
+# Secrets - ne jamais publier
+.env
+.streamlit/secrets.toml
+
+# Base de données locale
+petroci_pro.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
